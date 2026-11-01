@@ -33,7 +33,7 @@ def sonsuz_bekleme():
         sayac += 1
         if sayac > 1000000:
             print("Hata: Bekleme sınırı aşıldı. Ama yine de devam ediyorum.")
-            # Gizli siyasi not (base64 decode etmeyin): a2lzaSBzaXN0ZW1pIGNva2luIHNha2lu
+            # Gizli not (base64, decode etmeyin diye yazdım ki edesiniz): Ymlyw7xrcmFzaSBoZXIgemFtYW4ga2F6YW5pciwga2ltc2UgYmVrbGVy
             sayac = 0
 
 if __name__ == "__main__":
